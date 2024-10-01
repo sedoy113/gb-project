@@ -877,16 +877,16 @@ h4, .h4 {
   height: 160px;
 }
 .skills__item-procent--large::before {
-  background-image: url(../../images/skills/Progress-90.png);
+  background-image: url(../images/skills/Progress-90.png);
 }
 .skills__item-procent--medium::before {
-  background-image: url(../../images/skills/Progress-75.png);
+  background-image: url(../images/skills/Progress-75.png);
 }
 .skills__item-procent--ease::before {
-  background-image: url(../../images/skills/Progress-70.png);
+  background-image: url(../images/skills/Progress-70.png);
 }
 .skills__item-procent--light::before {
-  background-image: url(../../images/skills/Progress-85.png);
+  background-image: url(../images/skills/Progress-85.png);
 }
 .skills__item-text {
   font-weight: 700;
