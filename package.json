@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"homepage": "https://sedoy113.github.io/gb-project",
 	"scripts": {
-		"deploy": "gh-pages -d"
+		"deploy": "gh-pages -d dist"
 	},
 	"keywords": [],
 	"author": "sedoy",
