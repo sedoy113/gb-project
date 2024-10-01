@@ -1,0 +1,16 @@
+{
+	"name": "gb-project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"homepage": "https://sedoy113.github.io/gb-project",
+	"scripts": {
+		"deploy": ""
+	},
+	"keywords": [],
+	"author": "sedoy",
+	"license": "ISC",
+	"devDependencies": {
+		"gh-pages": "^6.1.1"
+	}
+}
